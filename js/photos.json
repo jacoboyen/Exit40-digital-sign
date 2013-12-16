@@ -1,0 +1,53 @@
+{
+	"Photos": [
+		{
+			"photoName": "Central Bridge",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/1.jpg",
+			"imgWidth": 1024,
+			"imgHeight": 768
+		},
+		{
+			"photoName": "Central Hall",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/02.jpg",
+			"imgWidth": 1024,
+			"imgHeight": 768
+		},
+		
+		{
+			"photoName": "Vermeer Science Center",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/fall/3.jpg",
+			"imgWidth": 1024,
+			"imgHeight": 768
+		},
+		{
+			"photoName": "The Chapel",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/4.jpg",
+			"imgWidth": 1024,
+			"imgHeight": 768
+		},
+		{
+			"photoName": "Schipper Fitness Center",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/fall/5.jpg",
+			"imgWidth": 1024,
+			"imgHeight": 768
+		},
+		{
+			"photoName": "Scholte Hall",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/fall/6.jpg",
+			"imgWidth": 1024,
+			"imgHeight": 768
+		},
+		{
+			"photoName": "Maytag Student Center",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/03.jpg",
+			"imgWidth": 1024,
+			"imgHeight": 768
+		},
+		{
+			"photoName": "A Cappella Choir",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/fall/8.jpg",
+			"imgWidth": 1024,
+			"imgHeight": 768
+		}
+	]
+}

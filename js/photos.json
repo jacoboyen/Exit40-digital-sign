@@ -8,14 +8,14 @@
 		},
 		{
 			"photoName": "Central Hall",
-			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/02.jpg",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/2.jpg",
 			"imgWidth": 1024,
 			"imgHeight": 768
 		},
 		
 		{
 			"photoName": "Vermeer Science Center",
-			"photoURL": "//img.centralcollege.info/homepage/backgrounds/fall/3.jpg",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/3.jpg",
 			"imgWidth": 1024,
 			"imgHeight": 768
 		},
@@ -27,25 +27,25 @@
 		},
 		{
 			"photoName": "Schipper Fitness Center",
-			"photoURL": "//img.centralcollege.info/homepage/backgrounds/fall/5.jpg",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/5.jpg",
 			"imgWidth": 1024,
 			"imgHeight": 768
 		},
 		{
 			"photoName": "Scholte Hall",
-			"photoURL": "//img.centralcollege.info/homepage/backgrounds/fall/6.jpg",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/6.jpg",
 			"imgWidth": 1024,
 			"imgHeight": 768
 		},
 		{
 			"photoName": "Maytag Student Center",
-			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/03.jpg",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/7.jpg",
 			"imgWidth": 1024,
 			"imgHeight": 768
 		},
 		{
 			"photoName": "A Cappella Choir",
-			"photoURL": "//img.centralcollege.info/homepage/backgrounds/fall/8.jpg",
+			"photoURL": "//img.centralcollege.info/homepage/backgrounds/holiday/8.jpg",
 			"imgWidth": 1024,
 			"imgHeight": 768
 		}

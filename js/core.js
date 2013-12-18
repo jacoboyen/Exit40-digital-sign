@@ -140,7 +140,11 @@ function updateClock()
 $(document).ready(function() {
 	//For testing functions
 	$('html').click(function(){
+		if(flickrAPIKey.length  > 0){
 		getFlickrPhotos();
+		}else{
+			loadBackground();
+		}
 	});
 	// Load backgrounds
 	if(flickrAPIKey.length  > 0){

@@ -80,6 +80,8 @@ html{
 	border-radius: .75em;
 	box-shadow: 0 0 5px #000000;
 	transform:rotate(-5deg);
+	-ms-transform:rotate(-5deg); 
+	-webkit-transform:rotate(-5deg);
 }
 #announce h1{
 	font-size: 2em;

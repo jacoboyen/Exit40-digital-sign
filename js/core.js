@@ -40,10 +40,15 @@ function getAnnouncements(){
 					announcementCount ++;
 				}
 			}
+			var photoOption = "";
+			if(data.announcements[currentAnnouncement].photo.length > 0){
+				var photoOption = "<p><img src='"+ data.announcements[currentAnnouncement].photo + "' alt='" + data.announcements[currentAnnouncement].title + "'>";
+			}
 			$('#announce').html(
 				'<h1>' + data.announcements[currentAnnouncement].title + "</h1>"
-				+ "<p>" + data.announcements[currentAnnouncement].message + "</p>"
-				+ "<p><img src='"+ data.announcements[currentAnnouncement].photo + "'>").fadeIn();
+				+ "<p>" + data.announcements[currentAnnouncement].message + "</p>" 
+				+ photoOption
+				).fadeIn();
 			if(currentAnnouncement < announcementCount-1){
 				currentAnnouncement ++;
 			}else{

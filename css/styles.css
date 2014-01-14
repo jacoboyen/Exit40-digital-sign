@@ -64,6 +64,7 @@ html{
 #clock{
 	font-size: 6em;
 	color: #fff;
+	text-align: center;
 }
 #weather{
 	font-size: 1.5em;
